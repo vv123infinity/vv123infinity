@@ -1,12 +1,3 @@
-# hello
-
-- 👋 Hi, I’m @vv123infinity
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-vv123infinity/vv123infinity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hello
+Hi! My name is Aubrey and I'm a current student. I am interested in computer vision, cryptography, artificial intelligence and so on. In my spare time, I love running, hiking, playing badminton, etc.
+Feel free to visit my website at https://onetwothreeinfinity.com/ to learn more.
